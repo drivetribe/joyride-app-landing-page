@@ -93,8 +93,8 @@ download_button_text_color: white; # Optional
 #
 # If you want specific meta info for your <head></head> tags
 #
-title: # Optional - Enter your site title
-description: # Optional - Enter your site description
+title: Joyride # Optional - Enter your site title
+description: Download the Joyride App # Optional - Enter your site description
 
 #
 # Google Analytics
